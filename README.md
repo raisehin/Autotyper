@@ -2,6 +2,7 @@
 
 A lightweight, efficient automated typing utility built with Python and Tkinter. Designed for speed, ease of use, and a premium feel.
 
+Wallahi no virus 
 
 ### Prerequisites
 - Python 3.x
